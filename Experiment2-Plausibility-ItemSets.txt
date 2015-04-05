@@ -1,0 +1,432 @@
+# PLAUSIBILITY 1 a 
+The acorns which the experienced naturalist concluded that the squirrels quickly crammed their small puffy cheeks with before scurrying out of the park had fallen from a sickly oak.
+
+# PLAUSIBILITY 1 b 
+The cats which the experienced naturalist concluded that the squirrels quickly crammed their small puffy cheeks with before scurrying out of the park were basking in the sun.
+
+# PLAUSIBILITY 1 c 
+The acorns which the squirrels with the bushy black tails quickly crammed their small puffy cheeks with before scurrying out of the park had fallen from a sickly oak.
+
+# PLAUSIBILITY 1 d 
+The cats which the squirrels with the bushy black tails quickly crammed their small puffy cheeks with before scurrying out of the park were basking in the sun.
+
+# PLAUSIBILITY 1 e 
+It surprised the naturalist that the acorns which the squirrels quickly crammed their small puffy cheeks with before scurrying away from the park had fallen from the sickly oak.
+
+# PLAUSIBILITY 1 f 
+It surprised the naturalist that the cats which the squirrels quickly crammed their small puffy cheeks with before scurrying out of the park were basking in the sun.
+
+# PLAUSIBILITY 2 a 
+The vaccine which the government inspector determined that the scientist carefully injected the white lab rat with after making some calculations could cure millions.
+
+# PLAUSIBILITY 2 b 
+The notebook which the government inspector determined that the scientist carefully injected the white lab rat with after making some calculations was covered in formulas.
+
+# PLAUSIBILITY 2 c 
+The vaccine which the scientist from the cancer research institute carefully injected the white lab rat with after making some calculations could cure millions.
+
+# PLAUSIBILITY 2 d 
+The notebook which the scientist from the cancer research institute carefully injected the white lab rat with after making some calculations was covered in formulas.
+
+# PLAUSIBILITY 2 e 
+It encouraged the inspector that the vaccine which the scientist carefully injected the white lab rat with after making some calculations could cure millions.
+
+# PLAUSIBILITY 2 f 
+It encouraged the inspector that the notebook which the scientist carefully injected the white lab rat with after making some calculations was covered in formulas.
+
+# PLAUSIBILITY 3 a 
+The weedkiller which the maintenance supervisor realized that the gardener cautiously sprayed the heavily overgrown crabgrass with before mowing the lawn contained toxic chemicals.
+
+# PLAUSIBILITY 3 b 
+The instructions which the maintenance supervisor realized that the gardener cautiously sprayed the heavily overgrown crabgrass with before mowing the lawn called for toxic chemicals.
+
+# PLAUSIBILITY 3 c 
+The weedkiller which the gardener at the prestigious country club cautiously sprayed the heavily overgrown crabgrass with before mowing the lawn contained toxic chemicals.
+
+# PLAUSIBILITY 3 d 
+The instructions which the gardener at the prestigious country club cautiously sprayed the heavily overgrown crabgrass with before mowing the lawn called for toxic chemicals.
+
+# PLAUSIBILITY 3 e 
+It worried the supervisor that the weedkiller which the gardener cautiously sprayed the heavily overgrown crabgrass with before mowing the lawn contained toxic chemicals.
+
+# PLAUSIBILITY 3 f 
+It worried the supervisor that the instructions which the gardener cautiously sprayed the heavily overgrown crabgrass with before mowing the lawn called for toxic chemicals.
+
+# PLAUSIBILITY 4 a 
+The sugar which the head chef supposed that the baker lightly sprinkled the freshly baked cake with in the small kitchen made a mess on the counter.
+
+# PLAUSIBILITY 4 b 
+The cookbook which the head chef supposed that the baker lightly sprinkled the freshly baked cake with in the small kitchen barely fit on the counter.
+
+# PLAUSIBILITY 4 c 
+The sugar which the baker from the local pastry shop lightly sprinkled the freshly baked cake with in the small kitchen made a mess on the counter.
+
+# PLAUSIBILITY 4 d 
+The cookbook which the baker from the local pastry shop lightly sprinkled the freshly baked cake with in the small kitchen barely fit on the counter.
+
+# PLAUSIBILITY 4 e 
+It irritated the chef that the sugar which the baker lightly sprinkled the freshly baked cake with in the small kitchen made a mess on the counter.
+
+# PLAUSIBILITY 4 f 
+It irritated the chef that the cookbook which the baker lightly sprinkled the freshly baked cake with in the small kitchen barely fit on the counter.
+
+# PLAUSIBILITY 5 a 
+The ointment which the helpful nurse said that the doctor gently brushed the little girl's wound with after she scraped her knee made her wince.
+
+# PLAUSIBILITY 5 b 
+The advice which the helpful nurse said that the doctor gently brushed the little girl's wound with after she scraped her knee made her wince.
+
+# PLAUSIBILITY 5 c 
+The ointment which the doctor with the short white beard gently brushed the little girl's wound with after she scraped her knee made her wince.
+
+# PLAUSIBILITY 5 d 
+The advice which the doctor with the short white beard gently brushed the little girl's wound with after she scraped her knee made her wince.
+
+# PLAUSIBILITY 5 e 
+It upset the nurse that the ointment which the doctor gently brushed the little girl's wound with after she scraped her knee made her wince.
+
+# PLAUSIBILITY 5 f 
+It upset the nurse that the advice which the doctor gently brushed the little girl's wound with after she scraped her knee made her wince.
+
+# PLAUSIBILITY 6 a 
+The silverware which the restaurant manager assumed that the chef loosely packed a special padded drawer with in his private office was used only for visiting dignitaries.
+
+# PLAUSIBILITY 6 b 
+The waiters which the restaurant manager assumed that the chef loosely packed a special padded drawer with in his private office served the guests skillfully.
+
+# PLAUSIBILITY 6 c 
+The silverware which the chef at the well-known gourmet restaurant loosely packed a special padded drawer with in his private office was used only for visiting dignitaries.
+
+# PLAUSIBILITY 6 d 
+The waiters which the chef at the well-known gourmet restaurant loosely packed a special padded drawer with in his private office served the guests skillfully.
+
+# PLAUSIBILITY 6 e 
+It reassured the manager that the silverware which the chef loosely packed a special padded drawer with in his private office was used only for visiting dignitaries.
+
+# PLAUSIBILITY 6 f 
+It reassured the manager that the waiters which the chef loosely packed a special padded drawer with in his private office served the guests skillfully.
+
+# PLAUSIBILITY 7 a 
+The blankets which the hospital administrator remarked that the nurses delicately wrapped the vulnerable sick patients with during the night were made from soft wool.
+
+# PLAUSIBILITY 7 b 
+The jokes which the hospital administrator remarked that the nurses delicately wrapped the vulnerable sick patients with during the night often cheered up the children.
+
+# PLAUSIBILITY 7 c 
+The blankets which the nurses in the busy pediatric ward delicately wrapped the vulnerable sick patients with during the night were made from soft wool.
+
+# PLAUSIBILITY 7 d 
+The jokes which the nurses in the busy pediatric ward delicately wrapped the vulnerable sick patients with during the night often cheered up the children.
+
+# PLAUSIBILITY 7 e 
+It pleased the administrator that the blankets which the nurses delicately wrapped the vulnerable sick patients with during the night were made from soft wool.
+
+# PLAUSIBILITY 7 f 
+It pleased the administrator that the jokes which the nurses delicately wrapped the vulnerable sick patients with during the night often cheered up the children.
+
+# PLAUSIBILITY 8 a 
+The syrup which the overworked babysitter figured that the toddler angrily smeared the recently painted wall with before running outside was nearly impossible to clean off.
+
+# PLAUSIBILITY 8 b 
+The scolding which the overworked babysitter figured that the toddler angrily smeared the recently painted wall with before running outside seemed harsh and unfair.
+
+# PLAUSIBILITY 8 c 
+The syrup which the toddler with the uncontrollable temper tantrums angrily smeared the recently painted wall with before running outside was nearly impossible to clean off.
+
+# PLAUSIBILITY 8 d 
+The scolding which the toddler with the uncontrollable temper tantrums angrily smeared the recently painted wall with before running outside seemed harsh and unfair.
+
+# PLAUSIBILITY 8 e 
+It annoyed the babysitter that the syrup which the toddler angrily smeared the recently painted wall with before running outside was nearly impossible to clean off.
+
+# PLAUSIBILITY 8 f 
+It annoyed the babysitter that the scolding which the toddler angrily smeared the recently painted wall with before running outside seemed harsh and unfair.
+
+# PLAUSIBILITY 9 a 
+The lotion which the personal trainer thought that the gymnast gingerly rubbed her throbbing injured shoulder with after she returned home allowed her to sleep comfortably.
+
+# PLAUSIBILITY 9 b 
+The pills which the personal trainer thought that the gymnast gingerly rubbed her throbbing injured shoulder with after she returned home allowed her to sleep comfortably.
+
+# PLAUSIBILITY 9 c 
+The lotion which the gymnast with the long blonde hair gingerly rubbed her throbbing injured shoulder with after she returned home allowed her to sleep comfortably.
+
+# PLAUSIBILITY 9 d 
+The pills which the gymnast with the long blonde hair gingerly rubbed her throbbing injured shoulder with after she returned home allowed her to sleep comfortably.
+
+# PLAUSIBILITY 9 e 
+It consoled the trainer that the lotion which the gymnast gingerly rubbed her throbbing injured shoulder with after she returned home allowed her to sleep comfortably.
+
+# PLAUSIBILITY 9 f 
+It consoled the trainer that the pills which the gymnast gingerly rubbed her throbbing injured shoulder with after she returned home allowed her to sleep comfortably.
+
+# PLAUSIBILITY 10 a 
+The juice which the shy kindergartner confessed that his mother accidentally splashed the unfortunate young boy with at the breakfast table left a sticky spot on his shirt.
+
+# PLAUSIBILITY 10 b 
+The lecture which the shy kindergartner confessed that his mother accidentally splashed the unfortunate young boy with at the breakfast table made him late for the bus.
+
+# PLAUSIBILITY 10 c 
+The juice which the mother with far too much work accidentally splashed the unfortunate young boy with at the breakfast table left a sticky spot on his shirt.
+
+# PLAUSIBILITY 10 d 
+The lecture which the mother with far too much work accidentally splashed the unfortunate young boy with at the breakfast table made him late for the bus.
+
+# PLAUSIBILITY 10 e 
+It embarrassed the kindergartner that the juice which the mother accidentally splashed the unfortunate young boy with at the breakfast table left a sticky spot on his shirt.
+
+# PLAUSIBILITY 10 f 
+It embarrassed the kindergartner that the lecture which the mother accidentally splashed the unfortunate young boy with at the breakfast table made him late for the bus.
+
+# PLAUSIBILITY 11 a 
+The paints which the respected critic speculated that the artist violently smeared the large white canvas with before covering it in photographs made the finished work vivid and compelling.
+
+# PLAUSIBILITY 11 b 
+The concepts which the respected critic speculated that the artist violently smeared the large white canvas with before covering it in photographs made the finished work vivid and compelling.
+
+# PLAUSIBILITY 11 c 
+The paints which the artist with the wild red hair violently smeared the large white canvas with before covering it in photographs made the finished work vivid and compelling.
+
+# PLAUSIBILITY 11 d 
+The concepts which the artist with the wild red hair violently smeared the large white canvas with before covering it in photographs made the finished work vivid and compelling.
+
+# PLAUSIBILITY 11 e 
+It inspired the critic that the paints which the artist violently smeared the large white canvas with before covering it in photographs made the finished work vivid and compelling.
+
+# PLAUSIBILITY 11 f 
+It inspired the critic that the concepts which the artist violently smeared the large white canvas with before covering it in photographs made the finished work vivid and compelling.
+
+# PLAUSIBILITY 12 a 
+The foil which the uptight roommate complained that the freshman partially wrapped the broken TV antenna with before tuning in the basketball finals was taken without asking.
+
+# PLAUSIBILITY 12 b 
+The incident which the uptight roommate complained that the freshman partially wrapped the broken TV antenna with before tuning in the basketball finals quickly became campus gossip.
+
+# PLAUSIBILITY 12 c 
+The foil which the freshman in the drab high-rise dorm partially wrapped the broken TV antenna with before tuning in the basketball finals actually belonged to his uptight neighbor.
+
+# PLAUSIBILITY 12 d 
+The incident which the freshman in the drab high-rise dorm partially wrapped the broken TV antenna with before tuning in the basketball finals quickly became campus gossip.
+
+# PLAUSIBILITY 12 e 
+It annoyed the roommate that the foil which the freshman partially wrapped the broken TV antenna with before tuning in the basketball finals was taken without asking.
+
+# PLAUSIBILITY 12 f 
+It annoyed the roommate that the incident which the freshman partially wrapped the broken TV antenna with before tuning in the basketball finals quickly became campus gossip.
+
+# PLAUSIBILITY 13 a 
+The cinnamon which the surprised coroner speculated that the man unwittingly sprinkled the freshly made coffee with while preparing breakfast had been poisoned.
+
+# PLAUSIBILITY 13 b 
+The plug which the surprised coroner speculated that the man unwittingly sprinkled the freshly made coffee with while preparing breakfast electrocuted him as he grasped it.
+
+# PLAUSIBILITY 13 c 
+The cinnamon which the man in the poorly lit kitchen unwittingly sprinkled the freshly made coffee with while preparing breakfast had been poisoned.
+
+# PLAUSIBILITY 13 d 
+The plug which the man in the poorly lit kitchen unwittingly sprinkled the freshly made coffee with while preparing breakfast electrocuted him as he grasped it.
+
+# PLAUSIBILITY 13 e 
+It surprised the coroner that the cinnamon which the man unwittingly sprinkled the freshly made coffee with while preparing breakfast had been poisoned.
+
+# PLAUSIBILITY 13 f 
+It surprised the coroner that the plug which the man unwittingly sprinkled the freshly made coffee with while preparing breakfast electrocuted him as he grasped it.
+
+# PLAUSIBILITY 14 a 
+The glue which the art teacher realized that the preschooler unevenly brushed the colorful paper shapes with before affixing some cotton balls left sticky spots on her desk.
+
+# PLAUSIBILITY 14 b 
+The warning which the art teacher realized that the preschooler unevenly brushed the colorful paper shapes with before affixing some cotton balls nearly brought the child to tears.
+
+# PLAUSIBILITY 14 c 
+The glue which the preschooler at the progressive arts school unevenly brushed the colorful paper shapes with before affixing some cotton balls left sticky spots on her desk.
+
+# PLAUSIBILITY 14 d 
+The warning which the preschooler at the progressive arts school unevenly brushed the colorful paper shapes with before affixing some cotton balls nearly brought the child to tears.
+
+# PLAUSIBILITY 14 e 
+It upset the teacher that the glue which the preschooler unevenly brushed the colorful paper shapes with before affixing some cotton balls left sticky spots on her desk.
+
+# PLAUSIBILITY 14 f 
+It upset the teacher that the warning which the preschooler unevenly brushed the colorful paper shapes with before affixing some cotton balls nearly brought the child to tears.
+
+# PLAUSIBILITY 15 a 
+The antibiotics which the senior senator assumed that the inspector cautiously injected the brave clinical volunteers with before composing his report were ultimately banned from the market.
+
+# PLAUSIBILITY 15 b 
+The spreadsheets which the senior senator assumed that the inspector cautiously injected the brave clinical volunteers with before composing his report were ultimately submitted and approved.
+
+# PLAUSIBILITY 15 c 
+The antibiotics which the inspector from the state regulatory agency cautiously injected the brave clinical volunteers with before composing his report were ultimately banned from the market.
+
+# PLAUSIBILITY 15 d 
+The spreadsheets which the inspector from the state regulatory agency cautiously injected the brave clinical volunteers with before composing his report were ultimately submitted and approved.
+
+# PLAUSIBILITY 15 e 
+It distressed the senator that the antibiotics which the inspector cautiously injected the brave clinical volunteers with before composing his report were ultimately banned from the market.
+
+# PLAUSIBILITY 15 f 
+It distressed the senator that the spreadsheets which the inspector cautiously injected the brave clinical volunteers with before composing his report were ultimately submitted and approved.
+
+# PLAUSIBILITY 16 a 
+The valuables which the clever detective figured that the burglar hurriedly crammed his bulging coat pockets with before setting off the alarm brought in little cash at the pawn shop.
+
+# PLAUSIBILITY 16 b 
+The children which the clever detective figured that the burglar hurriedly crammed his bulging coat pockets with before setting off the alarm were woken up by the loud siren.
+
+# PLAUSIBILITY 16 c 
+The valuables which the burglar with little experience in robbery hurriedly crammed his bulging coat pockets with before setting off the alarm brought in little cash at the pawn shop.
+
+# PLAUSIBILITY 16 d 
+The children which the burglar with little experience in robbery hurriedly crammed his bulging coat pockets with before setting off the alarm were woken up by the loud siren.
+
+# PLAUSIBILITY 16 e 
+It amused the detective that the valuables which the burglar hurriedly crammed his bulging coat pockets with before setting off the alarm brought in little cash at the pawn shop.
+
+# PLAUSIBILITY 16 f 
+It amused the detective that the children which the burglar hurriedly crammed his bulging coat pockets with before setting off the alarm were woken up by the loud siren.
+
+# PLAUSIBILITY 17 a 
+The coating which the impressed analyst said that the engineer methodically sprayed the special test surfaces with in his new laboratory could make the company lots of money.
+
+# PLAUSIBILITY 17 b 
+The program which the impressed analyst said that the engineer methodically sprayed the special test surfaces with in his new laboratory could make the company lots of money.
+
+# PLAUSIBILITY 17 c 
+The coating which the engineer from the high-tech aerospace firm methodically sprayed the special test surfaces with in his new laboratory could make the company lots of money.
+
+# PLAUSIBILITY 17 d 
+The program which the engineer from the high-tech aerospace firm methodically sprayed the special test surfaces with in his new laboratory could make the company lots of money.
+
+# PLAUSIBILITY 17 e 
+It pleased the analyst that the coating which the engineer methodically sprayed the special test surfaces with in his new laboratory could make the company lots of money.
+
+# PLAUSIBILITY 17 f 
+It pleased the analyst that the program which the engineer methodically sprayed the special test surfaces with in his new laboratory could make the company lots of money.
+
+# PLAUSIBILITY 18 a 
+The plaster which the hard-working contractor thought that the handyman skillfully rubbed the crumbling old ceiling with before applying the paint was supposed to resist mold for years.
+
+# PLAUSIBILITY 18 b 
+The calculations which the hard-working contractor thought that the handyman skillfully rubbed the crumbling old ceiling with before applying a coat of paint were made easy by a rule of thumb.
+
+# PLAUSIBILITY 18 c 
+The plaster which the handyman at the historic colonial courthouse skillfully rubbed the crumbling old ceiling with before applying a coat of paint was supposed to resist mold for years.
+
+# PLAUSIBILITY 18 d 
+The calculations which the handyman at the historic colonial courthouse skillfully rubbed the crumbling old ceiling with before applying a coat of paint were made easy by a rule of thumb.
+
+# PLAUSIBILITY 18 e 
+It encouraged the contractor that the plaster which the handyman skillfully rubbed the crumbling old ceiling with before applying a coat of paint was supposed to resist mold for years.
+
+# PLAUSIBILITY 18 f 
+It encouraged the contractor that the calculations which the handyman skillfully rubbed the crumbling old ceiling with before applying a coat of paint were made easy by a rule of thumb.
+
+# PLAUSIBILITY 19 a 
+The coffee which the graduate student remarked that the professor accidentally splashed an unfortunate old man with in the cluttered lecture hall soaked his tattered jacket.
+
+# PLAUSIBILITY 19 b 
+The seminar which the graduate student remarked that the professor accidentally splashed an unfortunate old man with in the cluttered lecture hall covered several complex topics.
+
+# PLAUSIBILITY 19 c 
+The coffee which the professor from the prestigious mathematics institute accidentally splashed an unfortunate old man with in the cluttered lecture hall soaked his tattered jacket.
+
+# PLAUSIBILITY 19 d 
+The seminar which the professor from the prestigious mathematics institute accidentally splashed an unfortunate old man with in the cluttered lecture hall covered several complex topics.
+
+# PLAUSIBILITY 19 e 
+It concerned the student that the coffee which the professor accidentally splashed an unfortunate old man with in the cluttered lecture hall soaked his tattered jacket.
+
+# PLAUSIBILITY 19 f 
+It concerned the student that the seminar which the professor accidentally splashed an unfortunate old man with in the cluttered lecture hall covered several complex topics.
+
+# PLAUSIBILITY 20 a 
+The fabric which the frustrated homeowners complained that the decorator unnecessarily draped the dining room table with after newly upholstering the chairs was not suited for young children.
+
+# PLAUSIBILITY 20 b 
+The painters which the frustrated homeowners complained that the decorator unnecessarily draped the dining room table with after newly upholstering the chairs were unable to provide a reasonable estimate.
+
+# PLAUSIBILITY 20 c 
+The fabric which the decorator with the spiky blond hair unnecessarily draped the dining room table with after newly upholstering the chairs was not suited for young children.
+
+# PLAUSIBILITY 20 d 
+The painters which the decorator with the spiky blond hair unnecessarily draped the dining room table with after newly upholstering the chairs were unable to provide a reasonable estimate.
+
+# PLAUSIBILITY 20 e 
+It annoyed the homeowners that the fabric which the decorator unnecessarily draped the dining room table with after newly upholstering the chairs was not suited for young children.
+
+# PLAUSIBILITY 20 f 
+It annoyed the homeowners that the painters which the decorator unnecessarily draped the dining room table with after newly upholstering the chairs were unable to provide a reasonable estimate.
+
+# PLAUSIBILITY 21 a 
+The quilt which the observant butler supposed that the housekeeper thoughtfully draped the soundly napping girl with before going out on errands was old and tattered.
+
+# PLAUSIBILITY 21 b 
+The encounter which the observant butler supposed that the housekeeper thoughtfully draped the soundly napping girl with before going out on errands was soon discussed throughout the neighborhood.
+
+# PLAUSIBILITY 21 c 
+The quilt which the housekeeper of the large colonial mansion thoughtfully draped the soundly napping girl with before going out on errands was old and tattered.
+
+# PLAUSIBILITY 21 d 
+The encounter which the housekeeper of the large colonial mansion thoughtfully draped the soundly napping girl with before going out on errands was soon discussed throughout the neighborhood.
+
+# PLAUSIBILITY 21 e 
+It embarrassed the butler that the quilt which the housekeeper thoughtfully draped the soundly napping girl with before going out on errands was old and tattered.
+
+# PLAUSIBILITY 21 f 
+It embarrassed the butler that the encounter which the housekeeper thoughtfully draped the soundly napping girl with before going out on errands was soon discussed throughout the neighborhood.
+
+# PLAUSIBILITY 22 a 
+The supplies which the local guide determined that the climber carefully packed the light durable rucksack with after taking inventory of his rations might not suffice in sub-zero conditions.
+
+# PLAUSIBILITY 22 b 
+The mountains which the local guide determined that the climber carefully packed the light durable rucksack with after taking inventory of his rations required special permits to climb.
+
+# PLAUSIBILITY 22 c 
+The supplies which the climber from the rugged alpine country carefully packed the light durable rucksack with after taking inventory of his rations might not suffice in sub-zero conditions.
+
+# PLAUSIBILITY 22 d 
+The mountains which the climber from the rugged alpine country carefully packed the light durable rucksack with after taking inventory of his rations required special permits to climb.
+
+# PLAUSIBILITY 22 e 
+It concerned the guide that the supplies which the climber carefully packed the light durable rucksack with after taking inventory of his rations might not suffice in sub-zero conditions.
+
+# PLAUSIBILITY 22 f 
+It concerned the guide that the mountains which the climber carefully packed the light durable rucksack with after taking inventory of his rations required special permits to climb.
+
+# PLAUSIBILITY 23 a 
+The cash which the embarrassed child confessed that the teenager secretly stuffed a hidden coat pocket with while cleaning the room turned up in the wash later.
+
+# PLAUSIBILITY 23 b 
+The puppy which the embarrassed child confessed that the teenager secretly stuffed a hidden coat pocket with while cleaning the room was awakened by the noise of the vacuum.
+
+# PLAUSIBILITY 23 c 
+The cash which the teenager with the unnoticed deceitful traits secretly stuffed a hidden coat pocket with while cleaning the room turned up in the wash later.
+
+# PLAUSIBILITY 23 d 
+The puppy which the teenager with the unnoticed deceitful traits secretly stuffed a hidden coat pocket with while cleaning the room was awakened by the noise of the vacuum.
+
+# PLAUSIBILITY 23 e 
+It worried the child that the cash which the teenager secretly stuffed the hidden coat pocket with while cleaning the room turned up in the wash later.
+
+# PLAUSIBILITY 23 f 
+It worried the child that the puppy which the teenager secretly stuffed the hidden coat pocket with while cleaning the room was awakened by the noise of the vacuum.
+
+# PLAUSIBILITY 24 a 
+The letters which the dedicated organizers said that the volunteers swiftly stuffed the recognizable yellow envelopes with after enclosing a glossy pamphlet were part of an emergency fund drive.
+
+# PLAUSIBILITY 24 b 
+The CEOs which the dedicated organizers said that the volunteers swiftly stuffed the recognizable yellow envelopes with after enclosing a glossy pamphlet were targeted in an emergency fund drive.
+
+# PLAUSIBILITY 24 c 
+The letters which the volunteers for the highly regarded charity swiftly stuffed the recognizable yellow envelopes with after enclosing a glossy pamphlet were part of an emergency fund drive.
+
+# PLAUSIBILITY 24 d 
+The CEOs which the volunteers for the highly regarded charity swiftly stuffed the recognizable yellow envelopes with after enclosing a glossy pamphlet were targeted in an emergency fund drive.
+
+# PLAUSIBILITY 24 e 
+It distressed the organizers that the letters which the volunteers swiftly stuffed the recognizable yellow envelopes with after enclosing a glossy pamphlet were part of an emergency fund drive.
+
+# PLAUSIBILITY 24 f 
+It distressed the organizers that the CEOs which the volunteers swiftly stuffed the recognizable yellow envelopes with after enclosing a glossy pamphlet were targeted in an emergency fund drive.
+

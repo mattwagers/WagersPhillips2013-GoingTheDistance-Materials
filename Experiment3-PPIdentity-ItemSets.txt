@@ -1,0 +1,311 @@
+# PP-IDENTITY 1 a
+The courier to whom the secretary recently entrusted the confidential business correspondence after some hesitation unfortunately wrecked his bike in traffic.
+? Was the person who wrecked the bike a courier? Y
+# PP-IDENTITY 1 b
+The courier from whom the secretary recently entrusted the confidential business correspondence after some hesitation unfortunately wrecked his bike in traffic.
+? Was it a secretary that gave the courier the correspondence? Y
+# PP-IDENTITY 1 c
+The courier to whom the secretary for the high-powered defense attorney recently entrusted the confidential business correspondence after some hesitation unfortunately wrecked his bike in traffic.
+? Did the secretary give the courier some correspondence? Y
+# PP-IDENTITY 1 d
+The courier from whom the secretary for the high-powered defense attorney recently entrusted the confidential business correspondence after some hesitation unfortunately wrecked his bike in traffic.
+? Did the courier have a wreck? Y
+
+# PP-IDENTITY 2 a
+The banker to whom the heiress quietly entrusted her elegant diamond tiara while discussing possible investments had managed the family's accounts for years.
+? Did the heiress hand over her tiara to a banker? Y
+# PP-IDENTITY 2 b
+The banker from whom the heiress quietly entrusted her elegant diamond tiara while discussing possible investments had managed the family's accounts her years.
+? Was the banker entrusted with a tiara from an heiress? Y
+# PP-IDENTITY 2 c
+The banker to whom the heiress from the old aristocratic family quietly entrusted her elegant diamond tiara while discussing possible investments had managed the family's accounts for years.
+? Did the heiress discuss her investments with the family banker? Y
+# PP-IDENTITY 2 d
+The banker from whom the heiress from the old aristocratic family quietly entrusted her elegant diamond tiara while discussing possible investments had managed the family's accounts for years.
+? Did the heiress hand over a diamond ring? N
+
+# PP-IDENTITY 3 a
+The sailor to whom the captain begrudgingly issued a small uncomfortable cot before crossing the ocean was disgruntled at his stinginess.
+? Was it a sailor that was disgruntled? Y
+# PP-IDENTITY 3 b
+The sailor from whom the captain begrudgingly issued a small uncomfortable cot before crossing the ocean was disgruntled at his stinginess.
+? Was the cot uncomfortable? Y
+# PP-IDENTITY 3 c
+The sailor to whom the captain of the notorious pirate ship begrudgingly issued a small uncomfortable cot before crossing the ocean was disgruntled at his stinginess.
+? Did the pirate captain issue a cot to a stow-away? N
+# PP-IDENTITY 3 d
+The sailor from whom the captain of the notorious pirate ship begrudgingly issued a small uncomfortable cot before crossing the ocean was disgruntled at his stinginess.
+? Was the sailor displeased with the captain? Y
+
+# PP-IDENTITY 4 a
+The soldier to whom the sergeant mechanically issued two pairs of boots after taking his measurements meticulously shined the new shoes.
+? Did the newly shined shoes belong to a soldier?
+# PP-IDENTITY 4 b
+The soldier from whom the sergeant mechanically issued two pairs of boots after taking his measurements meticulously shined the new shoes.
+? Did the sergeant issue a new rifle? N
+# PP-IDENTITY 4 c
+The soldier to whom the sergeant in charge of new recruits mechanically issued two pairs of boots after taking his measurements meticulously shined the new shoes.
+? Did the soldier carefully polish his new boots? Y
+# PP-IDENTITY 4 d
+The soldier from whom the sergeant in charge of new recruits mechanically issued two pairs of boots after taking his measurements meticulously shined the new shoes.
+? Was the official in charge of new recruits a sergeant? Y
+
+# PP-IDENTITY 5 a
+The official to whom the vacationers cheerfully presented their expired tourist visas at the checkpoint returned the documents with a grunt.
+? Did the vacationers present their visas to a black market dealer? N
+# PP-IDENTITY 5 b
+The official from whom the vacationers cheerfully presented their expired tourist visas at the checkpoint returned the documents with a grunt.
+? Did the official make an inarticulate sound? Y
+# PP-IDENTITY 5 c
+The official to whom the vacationers on the guided alpine tour cheerfully presented their expired tourist visas at the checkpoint returned the documents with a grunt.
+? Did the persons with the expired visas on vacation? Y
+# PP-IDENTITY 5 d
+The official from whom the vacationers on the guided alpine tour cheerfully presented their expired tourist visas at the checkpoint returned the documents with a grunt.
+? Had the vacationers visas expired? Y
+
+# PP-IDENTITY 6 a
+The clerk to whom the shopper optimistically presented a recently expired coupon while checking out would not apply a discount.
+? Did the shopper present coupons to a clerk? Y
+# PP-IDENTITY 6 d
+The clerk from whom the shopper optimistically presented a recently expired coupon while checking out would not apply a discount.
+? Did the clerk refuse to apply any discount? Y
+# PP-IDENTITY 6 c
+The clerk to whom the shopper at the enormous retail chain optimistically presented a recently expired coupon while checking out refused to apply a discount.
+? Did the shopper present a coupon that was still valid? N
+# PP-IDENTITY 6 d
+The clerk from whom the shopper at the enormous retail chain optimistically presented a recently expired coupon while checking out refused to apply a discount.
+? Was the coupon presented by the manager? N
+
+# PP-IDENTITY 7 a
+The spy to whom the diplomat discreetly provided some important government secrets in a deserted hallway would shortly be discovered and arrested.
+? Was it a diplomat who passed secrets to the spy? Y
+# PP-IDENTITY 7 b
+The spy from whom the diplomat discreetly provided some important government secrets in a deserted hallway would shortly be discovered and arrested.
+? Was it a diplomat who was arrested? N
+# PP-IDENTITY 7 c
+The spy to whom the diplomat at the fancy masked ball discreetly provided some important government secrets in a deserted hallway would shortly be discovered and arrested.
+? Did the diplomat supply the spy with confidential government information? Y
+# PP-IDENTITY 7 d
+The spy from whom the diplomat at the fancy masked ball discreetly provided some important government secrets in a deserted hallway would shortly be discovered and arrested.
+? Did the spy manage to escape detection? N
+
+# PP-IDENTITY 8 a						
+The patient to whom the nurse kindly provided a warm woolen blanket before administering a shot suffered from severe insomnia.
+? Was the patient given a blanket by a doctor? N
+# PP-IDENTITY 8 b				
+The patient from whom the nurse kindly provided a warm woolen blanket before administering a shot suffered from severe insomnia.
+? Was it a patient who couldn't sleep? Y
+# PP-IDENTITY 8 c
+The patient to whom the nurse on the early night shift kindly provided a warm woolen blanket before administering a shot suffered from severe insomnia.
+? Was the patient unable to get any sleep? Y
+# PP-IDENTITY 8 d	
+The patient from whom the nurse on the early night shift kindly provided a warm woolen blanket before administering a shot suffered from severe insomnia.
+? Was the blanket made out of cotton? N
+
+# PP-IDENTITY 9 a
+The doctor to whom the laboratory reliably supplied high quality testing kits at the beginning of each week used the most recent techniques.
+? Did the doctor receive testing kits from a laboratory? Y
+# PP-IDENTITY 9 b
+The doctor from whom the laboratory reliably supplied high quality testing kits at the beginning of each week used the most recent techniques.
+? Did the doctor receive the testing kits once a month? N
+# PP-IDENTITY 9 c
+The doctor to whom the laboratory in the new children's hospital reliably supplied high quality testing kits at the beginning of each week used the most recent techniques.
+? Were the testing kits given to a nurse? N
+# PP-IDENTITY 9 d
+The doctor from whom the laboratory in the new children's hospital reliably supplied high quality testing kits at the beginning of each week used the most recent techniques.
+? Was the doctor using up-to-date practices? Y 
+
+# PP-IDENTITY 10 a		
+The chef to whom the baker often supplied rich and creamy pastries for the pricey restaurant usually put aside a few for himself.
+? Did the chef make his own pastries? N 
+# PP-IDENTITY 10 b
+The chef from whom the baker often supplied rich and creamy pastries for the pricey restaurant usually put aside a few for himself.
+? Were the baker's pastries creamy? Y
+# PP-IDENTITY 10 c																		
+The chef to whom the baker in the upscale shopping center often supplied rich and creamy pastries for the pricey restaurant usually put aside a few for himself.
+? Did the chef sell every pastry he got? N
+# PP-IDENTITY 10 d
+The chef from whom the baker in the upscale shopping center often supplied rich and creamy pastries for the pricey restaurant usually put aside a few for himself.
+? Was it a chef who frequently kept some pastries for himself? Y
+
+# PP-IDENTITY 11 a
+The diner to whom the waiter expertly served the excellent red wine after uncorking the bottle praised him for a good choice.
+? Was the diner served some wine by a manager? N
+# PP-IDENTITY 11 b
+The diner from whom the waiter expertly served the excellent red wine after uncorking the bottle praised him for a good choice.
+? Did the diner not like the selection? N
+# PP-IDENTITY 11 c
+The diner to whom the waiter with several years of training expertly served the excellent red wine after uncorking the bottle praised him for a good choice.
+? Was it a diner who praised the waiter's choice? Y
+# PP-IDENTITY 11 d
+The diner from whom the waiter with several years of training expertly served the excellent red wine after uncorking the bottle praised him for a good choice. 
+? Did the waiter serve a red wine? Y
+
+# PP-IDENTITY 12 a	
+The passenger to whom the stewardess deftly served a pre-flight champagne cocktail while taking dinner orders actually fell asleep before takeoff.
+? Was the dinner order taken by a stewardess? Y
+# PP-IDENTITY 12 b
+The passenger from whom the stewardess deftly served a pre-flight champagne cocktail while taking dinner orders actually fell asleep before takeoff.
+? Was the passenger unable to get to sleep? N
+# PP-IDENTITY 12 c
+The passenger to whom the stewardess in charge of the cabin deftly served a pre-flight champagne cocktail while taking dinner orders actually fell asleep before takeoff.
+? Did the stewardess give the passenger a Coke? N
+# PP-IDENTITY 12 d
+The passenger from whom the stewardess in charge of the cabin deftly served a pre-flight champagne cocktail while taking dinner orders actually fell asleep before takeoff.
+? Did a stewardess fall asleep? N
+
+# PP-IDENTITY 13 a
+The millionaire from whom the orphan unexpectedly inherited a sizable stock portfolio after an improbable friendship was renowned for his generosity.
+? Did the orphan inherit a mansion? N
+# PP-IDENTITY 13 b
+The millionaire to whom the orphan unexpectedly inherited a sizable stock portfolio after an improbable friendship was renowned for his generosity.
+? Was it a millionaire who was so generous? Y
+# PP-IDENTITY 13 c
+The millionaire from whom the orphan in the small mining town unexpectedly inherited a sizable stock portfolio after an improbable friendship was renowned for his generosity.
+? Did the millionaire leave his stock portfolio to a hospital? N
+# PP-IDENTITY 13 d
+The millionaire to whom the orphan in the small mining town unexpectedly inherited a sizable stock portfolio after an improbable friendship was renowned for his generosity.
+? Was the millionaire known to be stingy? N
+
+# PP-IDENTITY 14 a
+The great-aunt from whom the poet recently inherited a small country estate without any advance notice had always enjoyed her nephew's writing.   
+? Did the poet receive his aunt's Manhattan apartment? N
+# PP-IDENTITY 14 b
+The great-aunt to whom the poet recently inherited a small country estate without any advance notice had always enjoyed her nephew's writing.   
+? Was it the poet's great-uncle who enjoyed his writing? N
+# PP-IDENTITY 14 c
+The great-aunt from whom the poet on the local university faculty recently inherited a small country estate without any advance notice had always enjoyed her nephew's writing.   
+? Did the poet's relative like his writing? Y
+# PP-IDENTITY 14 d
+The great-aunt to whom the poet on the local university faculty recently inherited a small country estate without any advance notice had always enjoyed her nephew's writing.   
+? Was it a novelist who received the country estate? N
+
+# PP-IDENTITY 15 a
+The bureaucrat from whom the applicant wearily obtained a stack of forms before paying the fee rarely showed any kindness toward his clients.
+? Was it a receipt that the applicant obtained from the bureaucrat? N
+# PP-IDENTITY 15 b
+The bureaucrat to whom the applicant wearily obtained a stack of forms before paying the fee rarely showed any kindness toward his clients.
+? Did the applicant go about his task energetically? N
+# PP-IDENTITY 15 c
+The bureaucrat from whom the applicant for the special passport extension wearily obtained a stack of forms before paying the fee rarely showed any kindness toward his clients.
+? Did the applicant get his forms from the Internet? N
+# PP-IDENTITY 15 d
+The bureaucrat to whom the applicant for the special passport extension wearily obtained a stack of forms before paying the fee rarely showed any kindness toward his clients.
+? Was the bureaucrat usually unkind with his clients? Y
+
+# PP-IDENTITY 16 a
+The waitress from whom the customer rudely obtained an extra bottle of ketchup after yelling across the room nearly broke down in tears.
+? Did the customer get a bottle of mayonnaise? N
+# PP-IDENTITY 16 b
+The waitress to whom the customer rudely obtained an extra bottle of ketchup after yelling across the room nearly broke down in tears.
+? Was it the cook who yelled across the room? N
+# PP-IDENTITY 16 c
+The waitress from whom the customer at the 24-hour roadside diner rudely obtained an extra bottle of ketchup after yelling across the room nearly broke down in tears.
+? Did the waitress not react to the customer's rudeness? N
+# PP-IDENTITY 16 d
+The waitress to whom the customer at the 24-hour roadside diner rudely obtained an extra bottle of ketchup after yelling across the room nearly broke down in tears.
+? Was it the customer who started crying? N
+
+# PP-IDENTITY 17 a
+The bully from whom the fifth-grader reluctantly accepted an obviously forced apology during the recess period had been threatened with suspension.
+? Did the bully make an apology? Y
+# PP-IDENTITY 17 b
+The bully to whom the fifth-grader reluctantly accepted an obviously forced apology during the recess period had been threatened with suspension.
+? Was the bully potentially facing suspension? Y
+# PP-IDENTITY 17 c
+The bully from whom the fifth-grader with the subtle foreign accent reluctantly accepted an obviously forced apology during the recess period had been threatened with suspension.
+? Was it a bully who made the apology? Y
+# PP-IDENTITY 17 d
+The bully to whom the fifth-grader with the subtle foreign accent reluctantly accepted an obviously forced apology during the recess period had been threatened with suspension.
+? Did the fifth-grader have a foreign accent? Y
+
+# PP-IDENTITY 18 a
+The stranger from whom the schoolboy warily accepted a few extra dollars after losing his lunch money turned out to be a local priest.
+? Had the schoolboy lost some money?
+# PP-IDENTITY 18 b
+The stranger to whom the schoolboy warily accepted a few extra dollars after losing his lunch money turned out to be a local priest.
+? Did the stranger have a religious occupation? Y
+# PP-IDENTITY 18 c
+The stranger from whom the schoolboy at the corner bus stop warily accepted a few extra dollars after losing his lunch money turned out to be a local priest.
+? Was it a schoolboy that the stranger gave a few extra bucks? Y
+# PP-IDENTITY 18 d
+The stranger to whom the schoolboy at the corner bus stop warily accepted a few extra dollars after losing his lunch money turned out to be a local priest.
+? Was it a trusted friend who was also priest? N
+
+# PP-IDENTITY 19 a
+The parishioner from whom the missionary gratefully collected a modest cash donation after speaking about his work was not usually a charitable person.
+? Did the parishioner not usually act charitably? Y
+# PP-IDENTITY 19 b
+The parishioner to whom the missionary gratefully collected a modest cash donation after speaking about his work was not usually a charitable person.
+? Was it a parishioner who was not usually charitable? Y
+# PP-IDENTITY 19 c
+The parishioner from whom the missionary on the East_Coast speaking tour gratefully collected a modest cash donation after discussing his projects was not usually a charitable person.
+? Was the missionary from the West Coast? N
+# PP-IDENTITY 19 d
+The parishioner to whom the missionary on the East_Coast speaking tour gratefully collected a modest cash donation after discussing his projects was not usually a charitable person.
+? Was the missionary able to collect any donations? Y
+
+# PP-IDENTITY 20 a
+The traveler from whom the employee cheerfully collected the required travel documents before taking her baggage was leaving on a tropical vacation.
+? Was the traveler taking a vacation? Y
+# PP-IDENTITY 20 b
+The traveler to whom the employee cheerfully collected the required travel documents before taking her baggage was leaving on a tropical vacation.
+? Was the traveler on business? N
+# PP-IDENTITY 20 c
+The traveler from whom the employee of the small discount airline cheerfully collected the required travel documents before taking her baggage was leaving on a tropical vacation.
+? Did the employee collect the traveler's baggage? Y
+# PP-IDENTITY 20 d
+The traveler to whom the employee of the small discount airline cheerfully collected the required travel documents before taking her baggage was leaving on a tropical vacation.
+? Did the employee work for a small airline? Y
+
+# PP-IDENTITY 21 a
+The celebrity from whom the fan excitedly received a lengthy detailed letter after requesting an autograph always tried to answer correspondence personally.
+? Did the celebrity's secretary write the letter? N
+# PP-IDENTITY 21 b
+The celebrity to whom the fan excitedly received a lengthy detailed letter after requesting an autograph always tried to answer correspondence personally.
+? Had the fan asked for an autograph? Y
+# PP-IDENTITY 21 c
+The celebrity from whom the fan in the remote midwestern village excitedly received a lengthy detailed letter after requesting an autograph always tried to answer correspondence personally.
+? Was it the celebrity's secretary that wrote the letter? N
+# PP-IDENTITY 21 d
+The celebrity to whom the fan in the remote midwestern village excitedly received a lengthy detailed letter after requesting an autograph always tried to answer correspondence personally.
+? Did the fan live in the northeast? N
+
+# PP-IDENTITY 22 a
+The messenger from whom the receptionist abruptly received a non-descript brown package while taking a coffee break seemed to want a tip.
+? Did the messenger refuse a tip? N
+# PP-IDENTITY 22 b
+The messenger to whom the receptionist abruptly received a non-descript brown package while taking a coffee break seemed to want a tip.
+? Was the receptionist on her lunch break? N
+# PP-IDENTITY 22 c
+The messenger from whom the receptionist of the small communications firm abruptly received a non-descript brown package while taking a coffee break seemed to want a tip.
+? Was it a manager who received the package? Y
+# PP-IDENTITY 22 d
+The messenger to whom the receptionist of the small communications firm abruptly received a non-descript brown package while taking a coffee break seemed to want a tip.
+? Was it a repairman who seemed to want the tip? N
+
+# PP-IDENTITY 23	a
+The librarian from whom the student dutifully retrieved the reserved course materials before reviewing the lecture notes later helped him operate the photocopier. 
+? Was it a film projector that the librarian helped with? N
+# PP-IDENTITY 23	b
+The librarian to whom the student dutifully retrieved the reserved course materials before reviewing the lecture notes later helped him operate the photocopier. 
+? Was it an instructor who got the reserved materials? N
+# PP-IDENTITY 23	c
+The librarian from whom the student in the introductory biology class dutifully retrieved the reserved course materials before reviewing the lecture notes later helped him operate the photocopier. 
+? Was it a professor who the student got the materials from? N
+# PP-IDENTITY 23	d
+The librarian to whom the student in the introductory biology class dutifully retrieved the reserved course materials before reviewing the lecture notes later helped him operate the photocopier. 
+? Were the course materials on reserve? Y
+
+# PP-IDENTITY 24	a
+The analyst from whom the general gruffly retrieved the top-secret encrypted hard-drive without any warning soon lost his security clearance.
+? Did the analyst receive a promotion in his security clearance? N
+# PP-IDENTITY 24	b
+The analyst to whom the general gruffly retrieved the top-secret encrypted hard-drive without any warning soon lost his security clearance.
+? Was it a lieutenant who took the hard-drive? N 
+# PP-IDENTITY 24	c
+The analyst from whom the general at the covert security agency gruffly retrieved the top-secret encrypted hard-drive without any warning soon lost his security clearance.
+? Was the hard-drive left unencrypted? N
+# PP-IDENTITY 24	d
+The analyst to whom the general at the covert security agency gruffly retrieved the top-secret encrypted hard-drive without any warning soon lost his security clearance.
+? Was it a secretary who lost his security clearance? N

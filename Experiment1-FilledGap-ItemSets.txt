@@ -1,0 +1,432 @@
+# FILLEDGAP 1 a 
+The supervisor was worried that the pillars which the crew hastily erected the steel girders for after finishing the foundation would support the new auditorium.
+
+# FILLEDGAP 1 b 
+The supervisor was worried that the pillars for which the crew hastily erected the steel girders after finishing the foundation would support the new auditorium.
+
+# FILLEDGAP 1 c 
+The pillars which the crew from the local construction company hastily erected the steel girders for after finishing the foundation will support the new auditorium.
+
+# FILLEDGAP 1 d 
+The pillars for which the crew from the local construction company hastily erected the steel girders after finishing the foundation will support the new auditorium.
+
+# FILLEDGAP 1 e 
+The pillars which the construction supervisor figured that the crew hastily erected the steel girders for after finishing the foundation will support the new auditorium.
+
+# FILLEDGAP 1 f 
+The pillars for which the construction supervisor figured that the crew hastily erected the steel girders after finishing the foundation will support the new auditorium.
+
+# FILLEDGAP 2 a 
+The critic was comforted that the orchestra which the composer skillfully conducted the new composition for during the festival was renowned for its skill.
+
+# FILLEDGAP 2 b 
+The critic was comforted that the orchestra for which the composer skillfully conducted the new composition during the festival was renowned for its skill.
+
+# FILLEDGAP 2 c 
+The orchestra which the composer of several highly acclaimed symphonies skillfully conducted the new composition for during the festival was renowned for its skill.
+
+# FILLEDGAP 2 d 
+The orchestra for which the composer of several highly acclaimed symphonies skillfully conducted the new composition during the festival was renowned for its skill.
+
+# FILLEDGAP 2 e 
+The orchestra which the music critic remarked that the composer skillfully conducted the new composition for during the festival was renowned for its skill.
+
+# FILLEDGAP 2 f 
+The orchestra for which the music critic remarked that the composer skillfully conducted the new composition during the festival was renowned for its skill.
+
+# FILLEDGAP 3 a 
+The host was upset that the cocktails which the bartender expertly mixed the expensive liquor for before adding the olives were barely touched.
+
+# FILLEDGAP 3 b 
+The host was upset that the cocktails for which the bartender expertly mixed the expensive liquor before adding the olives were barely touched.
+
+# FILLEDGAP 3 c 
+The cocktails which the bartender at the swanky private club expertly mixed the expensive liquor for before adding the olives were barely touched.
+
+# FILLEDGAP 3 d 
+The cocktails for which the bartender at the swanky private club expertly mixed the expensive liquor before adding the olives were barely touched.
+
+# FILLEDGAP 3 e 
+The cocktails which the party host assumed that the bartender expertly mixed the expensive liquor for before adding the olives were barely touched.
+
+# FILLEDGAP 3 f 
+The cocktails for which the party host assumed that the bartender expertly mixed the expensive liquor before adding the olives were barely touched.
+
+# FILLEDGAP 4 a 
+The biologist was distressed that the chemicals which the technician carefully prepared the clean tubes for while wearing a mask could still become contaminated.
+
+# FILLEDGAP 4 b 
+The biologist was distressed that the chemicals for which the technician carefully prepared the clean tubes while wearing a mask could still become contaminated.
+
+# FILLEDGAP 4 c 
+The chemicals which the technician at the medical research facility carefully prepared the clean tubes for while wearing a mask might still become contaminated.
+
+# FILLEDGAP 4 d 
+The chemicals for which the technician at the medical research facility carefully prepared the clean tubes while wearing a mask might still become contaminated.
+
+# FILLEDGAP 4 e 
+The chemicals which the young biologist said that the technician carefully prepared the clean tubes for while wearing a mask might still become contaminated.
+
+# FILLEDGAP 4 f 
+The chemicals for which the young biologist said that the technician carefully prepared the clean tubes while wearing a mask might still become contaminated.
+
+# FILLEDGAP 5 a 
+The visitor was surprised that the gate which the handyman carefully repaired the broken latch for before oiling the hinges was installed two centuries ago.
+
+# FILLEDGAP 5 b 
+The visitor was surprised that the gate for which the handyman carefully repaired the broken latch before oiling the hinges was installed two centuries ago.
+
+# FILLEDGAP 5 c 
+The gate which the handyman at the old Southern plantation carefully repaired the broken latch for before oiling the hinges was installed two centuries ago.
+
+# FILLEDGAP 5 d 
+The gate for which the handyman at the old Southern plantation carefully repaired the broken latch before oiling the hinges was installed two centuries ago.
+
+# FILLEDGAP 5 e 
+The gate which the maintenance superintendent assumed that the handyman carefully repaired the broken latch for before oiling the hinges was installed two centuries ago.
+
+# FILLEDGAP 5 f 
+The gate for which the maintenance superintendent assumed that the handyman carefully repaired the broken latch before oiling the hinges was installed two centuries ago.
+
+# FILLEDGAP 6 a 
+The manager was worried that the watch which the jeweler adeptly adjusted the intricate springs for after removing the casing might be a family heirloom.
+
+# FILLEDGAP 6 b 
+The manager was worried that the watch for which the jeweler adeptly adjusted the intricate springs after removing the casing might be a family heirloom.
+
+# FILLEDGAP 6 c 
+The watch which the jeweler at the elegant Swiss shop adeptly adjusted the intricate springs for after removing the casing was a family heirloom.
+
+# FILLEDGAP 6 d 
+The watch for which the jeweler at the elegant Swiss shop adeptly adjusted the intricate springs after removing the casing was a family heirloom.
+
+# FILLEDGAP 6 e 
+The watch which the experienced auctioneer supposed that the jeweler adeptly adjusted the intricate springs for after removing the casing was a family heirloom.
+
+# FILLEDGAP 6 f 
+The watch for which the experienced auctioneer supposed that the jeweler adeptly adjusted the intricate springs after removing the casing was a family heirloom.
+
+# FILLEDGAP 7 a 
+The customer was angry that the coffee which the waitress unhurriedly fetched the insulated lid for during the morning rush spilled on his pants.
+
+# FILLEDGAP 7 b 
+The customer was angry that the coffee for which the waitress unhurriedly fetched the insulated lid during the morning rush spilled on his pants.
+
+# FILLEDGAP 7 c 
+The coffee which the waitress at the small organic cafe unhurriedly fetched the insulated lid for during the morning rush spilled on the customer's pants.
+
+# FILLEDGAP 7 d 
+The coffee for which the waitress at the small organic cafe unhurriedly fetched the insulated lid during the morning rush spilled on the customer's pants.
+
+# FILLEDGAP 7 e 
+The coffee which the angry customer remarked that the waitress unhurriedly fetched the insulated lid for during the morning rush spilled on his pants.
+
+# FILLEDGAP 7 f 
+The coffee for which the angry customer remarked that the waitress unhurriedly fetched the insulated lid during the morning rush spilled on his pants.
+
+# FILLEDGAP 8 a 
+The owner was pleased that the pies which the chef personally prepared the rich filling for before baking the crusts were the restaurant's best-selling dish.
+
+# FILLEDGAP 8 b 
+The owner was pleased that the pies for which the chef personally prepared the rich filling before baking the crusts were the restaurant's best-selling dish.
+
+# FILLEDGAP 8 c 
+The pies which the chef at the upscale dessert cafe personally prepared the rich filling for before baking the crusts were the restaurant's best-selling dish.
+
+# FILLEDGAP 8 d 
+The pies for which the chef at the upscale dessert cafe personally prepared the rich filling before baking the crusts were the restaurant's best-selling dish.
+
+# FILLEDGAP 8 e 
+The pies which the cafe owner determined that the chef personally prepared the rich filling for before baking the crusts were the restaurant's best-selling dish.
+
+# FILLEDGAP 8 f 
+The pies for which the cafe owner determined that the chef personally prepared the rich filling before baking the crusts were the restaurant's best-selling dish.
+
+# FILLEDGAP 9 a 
+The fans were excited that the album which the rapper reportedly recorded the new tracks for while touring the country was sure to go platinum.
+
+# FILLEDGAP 9 b 
+The fans were excited that the album for which the rapper reported recorded the new tracks while touring the country was sure to go platinum.
+
+# FILLEDGAP 9 c 
+The album which the rapper from the popular hip-hop group reportedly recorded the new tracks for while touring the country was sure to go platinum.
+
+# FILLEDGAP 9 d 
+The album for which the rapper from the popular hip-hop group reportedly recorded the new tracks while touring the country was sure to go platinum.
+
+# FILLEDGAP 9 e 
+The album which the excited fans said that the rapper reportedly recorded the new tracks for while touring the country was sure to go platinum.
+
+# FILLEDGAP 9 f 
+The album for which the excited fans said that the rapper reportedly recorded the new tracks while touring the country was sure to go platinum.
+
+# FILLEDGAP 10 a 
+The repairman was annoyed that the camera which the photographer recently bought the faulty lens for after breaking the original had been recalled.
+
+# FILLEDGAP 10 b 
+The repairman was annoyed that the camera for which the photographer recently bought the faulty lens after breaking the original had been recalled.
+
+# FILLEDGAP 10 c 
+The camera which the photographer at the local portrait studio recently bought the faulty lens for after breaking the original had been recalled.
+
+# FILLEDGAP 10 d 
+The camera for which the photographer at the local portrait studio recently bought the faulty lens after breaking the original had been recalled.
+
+# FILLEDGAP 10 e 
+The camera which the skilled repairman supposed that the photographer recently bought the faulty lens for after breaking the original had been recalled.
+
+# FILLEDGAP 10 f 
+The camera for which the skilled repairman supposed that the photographer recently bought the faulty lens after breaking the original had been recalled.
+
+# FILLEDGAP 11 a 
+The instructor was proud that the software which the teenager masterfully programmed the complex code for while chatting online had broken records for efficiency.
+
+# FILLEDGAP 11 b 
+The instructor was proud that the software for which the teenager masterfully programmed the complex code while chatting online had broken records for efficiency.
+
+# FILLEDGAP 11 c 
+The software which the teenager from the disadvantaged high school masterfully programmed the complex code for while chatting online had broken records for efficiency.
+
+# FILLEDGAP 11 d 
+The software for which the teenager from the disadvantaged high school masterfully programmed the complex code while chatting online had broken records for efficiency.
+
+# FILLEDGAP 11 e 
+The software which the proud instructor speculated that the teenager masterfully programmed the complex code for while chatting online had broken records for efficiency.
+
+# FILLEDGAP 11 f 
+The software for which the proud instructor speculated that the teenager masterfully programmed the complex code while chatting online had broken records for efficiency.
+
+# FILLEDGAP 12 a 
+The guest was surprised that the broccoli which the lady slowly prepared the buttery sauce for before adding garlic tasted delicious.
+
+# FILLEDGAP 12 b 
+The guest was surprised that the broccoli for which the lady slowly prepared the buttery sauce before adding garlic tasted delicious.
+
+# FILLEDGAP 12 c 
+The broccoli which the lady in the assisted living facility slowly prepared the buttery sauce for before adding garlic tasted delicious.
+
+# FILLEDGAP 12 d 
+The broccoli for which the lady in the assisted living facility slowly prepared the buttery sauce before adding garlic tasted delicious.
+
+# FILLEDGAP 12 e 
+The broccoli which the house guest thought that the lady slowly prepared the buttery sauce for before adding garlic tasted delicious.
+
+# FILLEDGAP 12 f 
+The broccoli for which the house guest thought that the lady slowly prepared the buttery sauce before adding garlic tasted delicious.
+
+# FILLEDGAP 13 a 
+The contractor was annoyed that the shutters which the store widely advertised the special hardware for during the storm preparations quickly ran out of stock.
+
+# FILLEDGAP 13 b 
+The contractor was annoyed that the shutters for which the store widely advertised the special hardware during the storm preparations quickly ran out of stock.
+
+# FILLEDGAP 13 c 
+The shutters which the store in the small beach town widely advertised the special hardware for during the storm preparations quickly ran out of stock.
+
+# FILLEDGAP 13 d 
+The shutters for which the store in the small beach town widely advertised the special hardware during the storm preparations quickly ran out of stock.
+
+# FILLEDGAP 13 e 
+The shutters which the local contractor complained that the store widely advertised the special hardware for during the storm preparations quickly ran out of stock.
+
+# FILLEDGAP 13 f 
+The shutters for which local contractor complained that the store widely advertised the special hardware during the storm preparations quickly ran out of stock.
+
+# FILLEDGAP 14 a 
+The archaeologist was concerned that the equipment which the assistant carefully tidied the excavation site for before starting the generator might malfunction in the heat.
+
+# FILLEDGAP 14 b 
+The archaeologist was concerned that the equipment for which the assistant carefully tidied the excavation site before starting the generator might malfunction in the heat.
+
+# FILLEDGAP 14 c 
+The equipment which the assistant to the distinguished Egyptian archaeologist carefully tidied the excavation site for before starting the generator sometimes malfunctioned in the heat.
+
+# FILLEDGAP 14 d 
+The equipment for which the assistant to the distinguished Egyptian archaeologist carefully tidied the excavation site before starting the generator sometimes malfunctioned in the heat.
+
+# FILLEDGAP 14 e 
+The equipment which the distinguished archaeologist thought that the assistant carefully tidied the excavation site for before starting the generator sometimes malfunctioned in the heat.
+
+# FILLEDGAP 14 f 
+The equipment for which the distinguished archaeologist thought that the assistant carefully tidied the excavation site before starting the generator sometimes malfunctioned in the heat.
+
+# FILLEDGAP 15 a 
+The apprentice was inspired that the toys which the carpenter secretly carved the wooden chests for in his spare time were distributed to the orphans.
+
+# FILLEDGAP 15 b 
+The apprentice was inspired that the toys for which the carpenter secretly carved the wooden chests in his spare time were distributed to the orphans.
+
+# FILLEDGAP 15 c 
+The toys which the carpenter in the remote Appalachian village secretly carved the wooden chests for in his spare time were distributed to the orphans.
+
+# FILLEDGAP 15 d 
+The toys for which the carpenter in the remote Appalachian village secretly carved the wooden chests in his spare time were distributed to the orphans.
+
+# FILLEDGAP 15 e 
+The toys which the astonished apprentice concluded that the carpenter secretly carved the wooden chests for in his spare time were distributed to the orphans.
+
+# FILLEDGAP 15 f 
+The toys for which the astonished apprentice concluded that the carpenter secretly carved the wooden chests in his spare time were distributed to the orphans.
+
+# FILLEDGAP 16 a 
+The traveler was worried that the expedition which the guide capably organized the orientation session for before collecting release forms crossed dangerous terrain.
+
+# FILLEDGAP 16 b 
+The traveler was worried that the expedition for which the guide capably organized the orientation session before collecting release forms crossed dangerous terrain.
+
+# FILLEDGAP 16 c 
+The expedition which the guide from the remote alpine village capably organized the orientation session for before collecting release forms crossed dangerous terrain.
+
+# FILLEDGAP 16 d 
+The expedition for which the guide from the remote alpine village capably organized the orientation session before collecting release forms crossed dangerous terrain.
+
+# FILLEDGAP 16 e 
+The expedition which the adventurous traveler thought that the guide capably organized the orientation session for before collecting release forms crossed dangerous terrain.
+
+# FILLEDGAP 16 f 
+The expedition for which the adventurous traveler thought that the guide capably organized the orientation session before collecting release forms crossed dangerous terrain.
+
+# FILLEDGAP 17 a 
+The CEO was worried that the website which the blogger recently designed the flashy graphics for after user demand grew would soon be obsolete.
+
+# FILLEDGAP 17 b 
+The CEO was worried that the website for which the blogger recently designed the flashy graphics after user demand grew would soon be obsolete.
+
+# FILLEDGAP 17 c 
+The website which the blogger from the local art school recently designed the flashy graphics for after user demand grew would soon be obsolete.
+
+# FILLEDGAP 17 d 
+The website for which the blogger from the local art school recently designed the flashy graphics after user demand grew would soon be obsolete.
+
+# FILLEDGAP 17 e 
+The website which the company CEO said that the blogger recently designed the flashy graphics for after user demand grew would soon be obsolete.
+
+# FILLEDGAP 17 f 
+The website for which the company CEO said that the blogger recently designed the flashy graphics after user demand grew would soon be obsolete.
+
+# FILLEDGAP 18 a 
+The boy was excited that the milkshake which the server generously blended the candy toppings for before drizzling the fudge was filled with M&Ms.
+
+# FILLEDGAP 18 b 
+The boy was excited that the milkshake for which the server generously blended the candy toppings before drizzling the fudge was filled with M&Ms.
+
+# FILLEDGAP 18 c 
+The milkshake which the server at the mall food court generously blended the candy toppings for before drizzling the fudge was filled with M&Ms.
+
+# FILLEDGAP 18 d 
+The milkshake for which the server at the mall food court generously blended the candy toppings before drizzling the fudge was filled with M&Ms.
+
+# FILLEDGAP 18 e 
+The milkshake which the hungry boy figured that the server generously blended the candy toppings for before drizzling the fudge was filled with M&Ms.
+
+# FILLEDGAP 18 f 
+The milkshake for which the hungry boy figured that the server generously blended the candy toppings before drizzling the fudge was filled with M&Ms.
+
+# FILLEDGAP 19 a 
+The technician was relieved that the computer which the student completely updated the configuration files for before reconnecting to the network finally loaded successfully.
+
+# FILLEDGAP 19 b 
+The technician was relieved that the computer for which the student completely updated the configuration files before reconnecting to the network finally loaded successfully.
+
+# FILLEDGAP 19 c 
+The computer which the student in the deserted physics lab completely updated the configuration files for before reconnecting to the network finally loaded successfully.
+
+# FILLEDGAP 19 d 
+The computer for which the student in the deserted physics lab completely updated the configuration files before reconnecting to the network finally loaded successfully.
+
+# FILLEDGAP 19 e 
+The computer which the support technician speculated that the student completely updated the configuration files for before reconnecting to the network finally loaded successfully.
+
+# FILLEDGAP 19 f 
+The computer for which the support technician speculated that the student completely updated the configuration files before reconnecting to the network finally loaded successfully.
+
+# FILLEDGAP 20 a 
+The principal was pleased that the classes which the teacher strongly recommended the honors students for at the faculty meeting would likely prove challenging.
+
+# FILLEDGAP 20 b 
+The principal was pleased that the classes for which the teacher strongly recommended the honors students at the faculty meeting would likely prove challenging.
+
+# FILLEDGAP 20 c 
+The classes which the teacher at the exclusive prep school strongly recommended the honors students for at the faculty meeting will likely prove challenging.
+
+# FILLEDGAP 20 d 
+The classes for which the teacher at the exclusive prep school strongly recommended the honors students at the faculty meeting will likely prove challenging.
+
+# FILLEDGAP 20 e 
+The classes which the school principal said that the teacher strongly recommended the honors students for at the faculty meeting will likely prove challenging.
+
+# FILLEDGAP 20 f 
+The classes for which the school principal said that the teacher strongly recommended the honors students at the faculty meeting will likely prove challenging.
+
+# FILLEDGAP 21 a 
+The secretary was distressed that the packages which the courier recently brought the shipping invoices for while completing his route required additional freight costs.
+
+# FILLEDGAP 21 b 
+The secretary was distressed that the packages for which the courier recently brought the shipping invoices while completing his route required additional freight costs.
+
+# FILLEDGAP 21 c 
+The packages which the courier in the hectic business district recently brought the shipping invoices for while completing his route required additional freight costs.
+
+# FILLEDGAP 21 d 
+The packages for which the courier in the hectic business district recently brought the shipping invoices while completing his route required additional freight costs.
+
+# FILLEDGAP 21 e 
+The packages which the observant secretary thought that the courier recently brought the shipping invoices for while completing his route required additional freight costs.
+
+# FILLEDGAP 21 f 
+The packages for which the observant secretary thought that the courier recently brought the shipping invoices while completing his route required additional freight costs.
+
+# FILLEDGAP 22 a 
+The teacher was impressed that the lunches which the volunteers happily assembled the tasty sandwiches for before the buses left were devoured by the hungry children.
+
+# FILLEDGAP 22 b 
+The teacher was impressed that the lunches for which the volunteers happily assembled the tasty sandwiches before the buses left were devoured by the hungry children.
+
+# FILLEDGAP 22 c 
+The lunches which the volunteers for the school field trip happily assembled the tasty sandwiches for before the buses left were devoured by the hungry children.
+
+# FILLEDGAP 22 d 
+The lunches for which the volunteers for the school field trip happily assembled the tasty sandwiches before the buses left were devoured by the hungry children.
+
+# FILLEDGAP 22 e 
+The lunches which the kindergarten teacher said that the volunteers happily assembled the tasty sandwiches for before the buses left were devoured by the hungry children.
+
+# FILLEDGAP 22 f 
+The lunches for which the kindergarten teacher said that the volunteers happily assembled the tasty sandwiches before the buses left were devoured by the hungry children.
+
+# FILLEDGAP 23 a 
+The sergeant was satisfied that the rifles which the cadet thoroughly cleaned the new barrels for during his free time were oiled and polished.
+
+# FILLEDGAP 23 b 
+The sergeant was satisfied that the rifles for which the cadet thoroughly cleaned the new barrels during his free time were oiled and polished.
+
+# FILLEDGAP 23 c 
+The rifles which the cadet at the prestigious military academy thoroughly cleaned the new barrels for during his free time were oiled and polished.
+
+# FILLEDGAP 23 d 
+The rifles for which the cadet at the prestigious military academy thoroughly cleaned the new barrels during his free time were oiled and polished.
+
+# FILLEDGAP 23 e 
+The rifles which the strict sergeant determined that the cadet thoroughly cleaned the new barrels for during his free time were oiled and polished.
+
+# FILLEDGAP 23 f 
+The rifles for which the strict sergeant determined that the cadet thoroughly cleaned the new barrels during his free time were oiled and polished.
+
+# FILLEDGAP 24 a 
+The neighbor was upset that the fountain which the millionaire hastily built the ugly pavilion for during the summer months violated the neighborhood council's rules.
+
+# FILLEDGAP 24 b 
+The neighbor was upset that the fountain for which the millionaire hastily built the ugly pavilion during the summer months violated the neighborhood council's rules.
+
+# FILLEDGAP 24 c 
+The fountain which the millionaire in the stuffy conservative neighborhood hastily built the ugly pavilion for during the summer months violated the neighborhood council's rules.
+
+# FILLEDGAP 24 d 
+The fountain for which the millionaire in the stuffy conservative neighborhood hastily built the ugly pavilion during the summer months violated the neighborhood council's rules.
+
+# FILLEDGAP 24 e 
+The fountain which the uptight neighbor complained that the millionaire hastily built the ugly pavilion for during the summer months violated the neighborhood council's rules.
+
+# FILLEDGAP 24 f 
+The fountain for which the uptight neighbor complained that the millionaire hastily built the ugly pavilion during the summer months violated the neighborhood council's rules.
+
